@@ -1,0 +1,10 @@
+X40241,11/04/2013,12/08/2013,Advanced Application Development for Android,Gain advanced knowledge of the Android platform including issues and techniques along with structuring applications for efficiency and reliability,32,32
+X47127,10/30/2013,12/08/2013,Advanced C++ Programming and STL,Learn some of the more advanced features of computer programming using C++ and the Standard Template Library,35,12
+X46037,09/30/2013,12/08/2013,Data Structures and Algorithms,Gain a solid background in data structures and their associated algorithms,32,19
+X46033,09/30/2013,12/08/2013,Design patterns for Java,Learn how to use design patterns to jump start programming solution,32,16
+X47110,09/30/2013,12/08/2013,Intro to C++, Learn the basics of computer programming using C++ a sophisticated programming language normally reserved for experiences users but now made accessible to new programmers in this fast-paced and hands-on course,30,18
+X40235,09/23/2013,10/27/2013,Intro to Mobile Application Design and Development,Learn about mobile application development market opportunities and technical requiredments for Apple Google and Microsoft,35,25
+X46064,10/30/2013,12/08/2013,Java Enterprise Architecture,Learn advanced Java and best practices for large scalre enterprise solutions,35,13
+X46010,09/23/2013,12/01/2013,Java Programming I,Aim of this course is to provide students with the knowledge and competencies to be able to write and design sophisticated professional programs using Java through extensive hands-on exercises,30,12
+X47191,09/30/2013,12/08/2013,Object Oriented Analysis and Design,Learn how to develop more complex software by applying good analysis and design methodologies,32,32
+X46066,09/30/2013,12/08/2013,Web Application Security Essentials,Learn the concepts mechanics and terminology for understanding web application security principles,35,30
